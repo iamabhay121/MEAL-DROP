@@ -1,6 +1,3 @@
-// ## Namaste React Course by Akshay Saini
-// # Chapter 07 - Finding the Path
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import Header from "./Components/Header";
